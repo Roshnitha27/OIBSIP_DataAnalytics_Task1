@@ -1,1 +1,1 @@
-# OIBSIP_DataAnalytics_Task1
+The objective of this project is to perform Exploratory Data Analysis (EDA) on retail sales data to identify customer purchasing patterns, product performance, and sales trends. The analysis aims to transform raw sales data into actionable business insights using Microsoft Excel.
