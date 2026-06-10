@@ -28,5 +28,4 @@ The project transformed raw retail sales data into meaningful insights that supp
 
 ## Files Included
 - Retail Sales Dataset (.xlsx)
-- Project Documentation
 - README.md
